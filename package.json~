@@ -1,10 +1,10 @@
 {
   "name": "@robbietwotimes/dev_env",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "following 'dev environment' turotrial of 'how-to-npm' on 'nodeschool'",
   "main": "index.js",
   "scripts": {
-    "test": "testcommand1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,8 @@
   "homepage": "https://github.com/robbietwotimes/how-to-npm_dev-env#readme",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+	"dist-tag": {
+		"next": "1.1.1",
+		"latest": "1.1.0"
 }
