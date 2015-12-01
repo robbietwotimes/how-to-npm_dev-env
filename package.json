@@ -1,0 +1,30 @@
+{
+  "name": "@robbietwotimes/dev_env",
+  "version": "1.0.0",
+  "description": "following 'dev environment' turotrial of 'how-to-npm' on 'nodeschool'",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbietwotimes/how-to-npm_dev-env.git"
+  },
+  "keywords": [
+    "npm",
+    "nodeschool",
+    "how-to-npm",
+    "dev",
+    "environment",
+    "tutorial"
+  ],
+  "author": "robbietwotimes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robbietwotimes/how-to-npm_dev-env/issues"
+  },
+  "homepage": "https://github.com/robbietwotimes/how-to-npm_dev-env#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
